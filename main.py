@@ -21,3 +21,11 @@ with col2:
     and fast-paced environments.
     """
     st.info(content)
+
+content2 = """
+Below you can find some app which I have developed in Python. Feel free to contact me!..
+"""
+# st.header(content2)
+
+
+st.write(content2)
